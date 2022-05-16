@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AlexandrBartkiv
-- 👀 I’m interested in front-end development
+- 👀 I’m interested in front-end and back-end development
 - 🌱 I’m currently learning Vue.js and React =)
 - -->
